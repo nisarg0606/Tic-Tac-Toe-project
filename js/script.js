@@ -1,4 +1,3 @@
-//I've tried to explain each JavaScript line with comments....Hope you'll understand
 
 //selecting all required elements
 const selectBoxbp = document.querySelector(".select-box-player"),
